@@ -8,7 +8,7 @@ _Haftada birden fazla e-posta gönderimi olmayacaktır. Abonelikten çıkmak kol
 
 ---
 
-### Table of Contents
+### İçerikler
 
 1. **[Başlangıç](#başlangıç)**
 2. **[Nasıl Öğrenilir](#nasıl-öğrenilir)**
